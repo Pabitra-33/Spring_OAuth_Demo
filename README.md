@@ -7,8 +7,7 @@
 ---
 
 ## 📌 Introduction  
-**Spring_Oauth_Demo** is a sample project that demonstrates how to implement **OAuth 2.0 authentication** in a Spring Boot application using **GitHub as an OAuth Provider**.  
-It showcases how to integrate third-party OAuth providers for secure login, protecting routes, and retrieving authenticated user details.  
+**Spring_Oauth_Demo** is a sample project that demonstrates how to implement **OAuth 2.0 authentication** in a Spring Boot application using **GitHub as an OAuth Provider**. It showcases how to integrate third-party OAuth providers for secure login, protecting routes, and retrieving authenticated user details.  
 
 ---
 
